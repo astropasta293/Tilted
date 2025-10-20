@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cqsit3giuvlx8"
-path="res://.godot/imported/block1.png-a4b1e5e116eb4ab4cdd50dc13333bee0.ctex"
+uid="uid://dglourfaervme"
+path="res://.godot/imported/Beta TileSet.png-af2cbc9dc1503ae10c3f4cfe33be1c81.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/block1.png"
-dest_files=["res://.godot/imported/block1.png-a4b1e5e116eb4ab4cdd50dc13333bee0.ctex"]
+source_file="res://Assets/Tiles/Beta TileSet.png"
+dest_files=["res://.godot/imported/Beta TileSet.png-af2cbc9dc1503ae10c3f4cfe33be1c81.ctex"]
 
 [params]
 
